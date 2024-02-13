@@ -1,0 +1,184 @@
+@font-face {
+    font-family: 'bikoblack';
+    src: url('../font/biko-balck/biko_black-webfont.woff') format('woff2'),
+         url('../font/biko-balck/biko_black-webfont.woff2') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}   
+
+@font-face {
+    font-family: 'bikobold';
+    src: url('../font/biko-bold/biko_bold-webfont.woff') format('woff2'),
+         url('../font/biko-bold/biko_bold-webfont.woff2') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'bikoregular';
+    src: url('../font/biko-regular/biko_regular-webfont.woff2') format('woff2'),
+         url('../font/biko-regular/biko_regular-webfont.woff2') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+.Test p,
+.header li{
+    font-family: 'bikoregular';
+    font-size: 30px;
+    color: #676767;
+}
+.header p{
+    font-family: 'bikoregular'; 
+    font-size: 35px;
+    color: #FFFFFF;
+}
+.header h1{
+    font-family: 'bikobold';
+    font-size: 45px;
+    color: #FFFFFF;
+}
+h2.invest{
+    font-family: 'bikoblack';
+    font-size: 100px;
+    color: #FFFFFF;
+}
+.section2 h3{
+    font-family: 'bikoblack';
+    font-size: 50px;
+    color: #0864B1;
+}
+.Features h3{
+    font-family: 'bikoblack';
+    font-size: 50px;
+    color: #0864B1;
+}
+
+.Latest h3{
+    font-family: 'bikoblack';
+    font-size: 50px;
+    color: #0864B1;
+}
+.Test h3{
+    font-family: 'bikoblack';
+    font-size: 50px;
+    color: #0864B1;
+}
+.forms h3{
+    font-family: 'bikoblack';
+    font-size: 50px;
+    color: #0864B1;
+}
+.upde h4{
+    font-family: 'bikobold';
+    color: #FFFFFF;
+    font-size: 75px;
+}
+
+
+.about p,
+.Features p{
+    font-family: 'bikoregular'; 
+    color: #676767;
+    font-size: 35px;
+}
+.number p{
+    font-family: 'bikoregular'; 
+    color: #676767;
+    font-size: 40px;  
+}
+.number h4{
+    font-family: 'bikobold';
+    font-size: 100px;
+    color: #0864B1;
+}
+.Latest p{
+    font-family: 'bikoregular'; 
+    font-size: 20px;
+    color: #676767;
+}
+.Test h5{
+    font-family: 'bikobold';
+    color: #0864B1;
+    font-size: 30px;
+}
+.Test h6{
+    font-family: 'bikoregular'; 
+    font-size: 30px;
+    color: #676767;
+}
+.join button{
+    font-family: 'bikoregular'; 
+    font-size: 35px;
+    color: #FFFFFF;
+    background-color: #0864B1;
+    border-color: #FFFFFF;
+    border: 5px solid ;
+    padding: 20px;
+
+}
+.wh{
+    font-family: 'bikoregular'; 
+    font-size: 30px;
+    color: #676767;
+}
+form h5{
+    font-family: 'bikobold';
+    color: #0864B1;
+    font-size: 30px;
+}
+form p
+
+{
+    font-family: 'bikobold';
+    color: #0864B1;
+    font-size: 30px;
+}
+button.btn{
+    font-family: 'bikobold';
+    color: white;
+    font-size: 30px;
+    background-color: #0864B1;
+}
+.us{
+    font-family: 'bikobold';
+    color: #0864B1;
+    font-size: 35px;
+}
+.adr{
+    font-family: 'bikoregular'; 
+    font-size: 18px;
+    color: #FFFFFF;
+
+}
+.footer .res{
+    font-family: 'bikobold';
+    color: #FFFFFF;
+    font-size: 25px;
+}
+.footer .lm{
+    font-family: 'bikobold';
+    color: #FFFFFF;
+    font-size: 30px;
+}
+h5{
+    font-family: 'bikobold';
+    color: #FFFFFF;
+    font-size: 25px;
+}
+.footer a.beh{
+    font-family: 'bikoregular'; 
+    font-size: 22px;
+    color:#FFFFFF  ;
+}
+.footer h1{
+    font-family: 'bikobold';
+    font-size: 45px;
+    color: #FFFFFF;
+}
+.rea{
+    font-family: 'bikobold';
+    font-size: 20px;
+    color: #0864B1;
+}
